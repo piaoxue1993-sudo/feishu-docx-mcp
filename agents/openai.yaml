@@ -1,0 +1,7 @@
+interface:
+  display_name: "Script Art Design Analysis Experimental"
+  short_description: "Experimental screenplay art workflow with spatially coherent primary/reverse scene pairs."
+  default_prompt: "Use $script-art-design-analysis-experimental to analyze the screenplay, infer complete interior entrance and circulation relationships, research project-specific film and architecture references, generate every scene as a coherent primary/reverse-angle image pair with Chinese filenames, and assemble a portable Word scene atlas plus an images folder while leaving the stable skill unchanged."
+
+policy:
+  allow_implicit_invocation: true
